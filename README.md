@@ -1,7 +1,7 @@
 # 2024학년도 1학기 빅데이터 분석 주문형 강좌 학습자료
 
 
-[환경설정](https://https://github.com/Noobgods/202401PthBigdata/blob/master/Week00_Setup/_Contents.md)   
+[환경설정](https://github.com/Noobgods/202401PthBigdata/blob/master/Week00_Setup/_Contents.md)   
  
 
 <br/><br/><br/>

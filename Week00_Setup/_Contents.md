@@ -28,10 +28,10 @@ Python 3.10 버전 사용
 
 ### VSCode Extensions
 
-Visual Studio Code를 편하게 사용하기 위해선 Extension들을 사용한다.
+Visual Studio Code를 편하게 사용하기 위해선 아래 Extension들을 사용한다.
 
 
 ### [Code Runner](vscode:extension/donjayamanne.python-extension-pack)   
 ### [Python Extension Pack](vscode:extension/formulahendry.code-runner)   
 
-위 링크를 클릭하면 VSCode에서 Extension 링크로 이동합니다.
+VSCode에서 이 .md 파일을 실행시 위 링크로 VSCode에서 Extension 탭을 불러올 수 있습니다.
