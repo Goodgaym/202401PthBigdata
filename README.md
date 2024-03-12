@@ -1,7 +1,7 @@
 # 2024학년도 1학기 빅데이터 분석 주문형 강좌 학습자료
 
 
-[환경설정](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week1_PythonBasic/_Contents_md)   
+[환경설정](https://github.com/Goodgaym/202401PthBigdata/blob/master/Week00_Setup/_Contents_md)   
  
 8주차 부터는 실습 예제 파일에 주석으로 코드 설명을 적어 놓았습니다.
 
