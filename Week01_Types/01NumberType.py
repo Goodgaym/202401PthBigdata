@@ -19,4 +19,3 @@ z = x ** y
 reminder = 7 % 3
 division = 7 // 3
 
-type(reminder)
