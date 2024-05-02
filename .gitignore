@@ -1,3 +1,4 @@
 *.csv
 *.xml
 *_vscode
+.gitignore
