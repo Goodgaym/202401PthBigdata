@@ -2,11 +2,14 @@
 
 
 [환경설정](https://github.com/Noobgods/202401PthBigdata/blob/master/Week00_Setup/_Contents.md)   
+[VSCode에서 Colab 원격 접속](https://github.com/Noobgods/202401PthBigdata/blob/master/Week00_Setup/_LinkColab&VSCode.md)
 [1주차 강의내용](https://github.com/Noobgods/202401PthBigdata/blob/master/Week01_Types/_Contents.md)   
 [2주차 강의내용](https://github.com/Noobgods/202401PthBigdata/blob/master/Week2_DataTypes/_Contents.md)   
 [3주차 강의내용](https://github.com/Noobgods/202401PthBigdata/blob/master/Week3_ControlStatement/_Contents.md)   
 [4주차 강의내용](https://github.com/Noobgods/202401PthBigdata/blob/master/Week4_Function/_Contents.md)   
-[4주차 강의내용](https://github.com/Noobgods/202401PthBigdata/blob/master/Week5_Class/_Contents.md)   
+[5주차 강의내용](https://github.com/Noobgods/202401PthBigdata/blob/master/Week5_Class/_Contents.md)   
+[6주차 강의내용](https://github.com/Noobgods/202401PthBigdata/blob/master/Week6_DesignClass/_Contents.md)   
+[7주차 강의내용](https://github.com/Noobgods/202401PthBigdata/blob/master/Week7_DataExtract/_Contents.md)   
  
 
 <br/><br/><br/>
